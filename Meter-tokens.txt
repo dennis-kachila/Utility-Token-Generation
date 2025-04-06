@@ -1,0 +1,191 @@
+Saturday, May 6, 2023 · 11:58 PM 
+Mtr:37194275246 Token:1865-3776-4842-2132-9404 Date:20230506 16:49 Units:0.95 Amt:20.00 TknAmt:11.59 OtherCharges:8.41 For Details dial *977#
+Saturday, May 6, 2023 · 11:58 PM 
+Mtr:37194275246 Token:6721-7771-1330-9402-1908 Date:20230506 21:57 Units:2.36 Amt:50.00 TknAmt:28.91 OtherCharges:21.09 For Details dial *977#
+Thursday, May 11, 2023 · 5:26 PM 
+Mtr:37194275246 Token:7365-0649-1736-7314-8707 Date:20230511 15:25 Units:4.63 Amt:100.00 TknAmt:56.63 OtherCharges:43.37 For Details dial *977#
+Thursday, May 18, 2023 · 10:03 AM 
+Mtr:37194275246 Token:5960-2130-7568-6047-7322 Date:20230518 08:02 Units:13.89 Amt:300.00 TknAmt:169.81 OtherCharges:130.19 For Details dial *977#
+Saturday, June 3, 2023 · 10:25 AM 
+Mtr:37194275246 Token:0376-4690-0924-3300-7595 Date:20230603 08:24 Units:0.23 Amt:5.00 TknAmt:2.86 OtherCharges:2.14 For Details dial *977#
+Thursday, June 15, 2023 · 12:01 AM 
+Mtr:37194275246 Token:0985-1549-5716-3625-5145 Date:20230614 22:00 Units:1.87 Amt:43.00 TknAmt:22.94 OtherCharges:20.06 For Details dial *977#
+Thursday, June 15, 2023 · 2:37 AM 
+Mtr:37194275246 Token:3144-2399-4411-2313-9395 Date:20230615 00:37 Units:2.18 Amt:50.00 TknAmt:26.66 OtherCharges:23.34 For Details dial *977#
+Saturday, June 24, 2023 · 10:02 PM 
+Mtr:37194275246 Token:1643-8562-7546-1820-4977 Date:20230624 20:01 Units:1.31 Amt:30.00 TknAmt:16.02 OtherCharges:13.98 For Details dial *977#
+Sunday, June 25, 2023 · 11:28 AM 
+Mtr:37194275246 Token:7247-4702-6173-6742-3867 Date:20230625 09:27 Units:2.92 Amt:67.00 TknAmt:35.72 OtherCharges:31.28 For Details dial *977#
+Saturday, July 1, 2023 · 1:11 AM 
+Mtr:37194275246 Token:2438-1130-9571-4247-8971 Date:20230630 23:10 Units:2.14 Amt:49.00 TknAmt:26.13 OtherCharges:22.87 For Details dial *977#
+Wednesday, July 5, 2023 · 2:07 AM 
+Mtr:37194275246 Token:4178-0845-0752-4942-0493 Date:20230705 00:06 Units:4.34 Amt:100.00 TknAmt:53.20 OtherCharges:46.8 For Details dial *977#
+Thursday, July 13, 2023 · 9:10 PM 
+Mtr:37194275246 Token:4817-0359-0247-1434-9788 Date:20230713 19:09 Units:3.02 Amt:65.00 TknAmt:36.97 OtherCharges:28.03 For Details dial *977#
+Thursday, July 20, 2023 · 12:39 AM 
+Mtr:37194275246 Token:4295-1580-7174-2547-6310 Date:20230719 22:38 Units:2.55 Amt:55.00 TknAmt:31.28 OtherCharges:23.72 For Details dial *977#
+Sunday, July 23, 2023 · 9:25 PM 
+Mtr:37194275246 Token:4628-8000-0018-8230-8807 Date:20230723 19:24 Units:2.18 Amt:47.00 TknAmt:26.73 OtherCharges:20.27 For Details dial *977#
+Thursday, July 27, 2023 · 12:20 AM 
+Mtr:37194275246 Token:3331-0632-2187-4653-6614 Date:20230726 22:20 Units:2.32 Amt:50.00 TknAmt:28.44 OtherCharges:21.56 For Details dial *977#
+Saturday, July 29, 2023 · 11:35 PM 
+Mtr:37194275246 Token:2101-4844-4137-2545-4877 Date:20230729 21:30 Units:2.55 Amt:55.00 TknAmt:31.28 OtherCharges:23.72 For Details dial *977#
+Thursday, August 3, 2023 · 2:31 PM 
+Mtr:37194275246 Token:6784-1006-0457-6052-2496 Date:20230803 12:30 Units:2.51 Amt:54.00 TknAmt:30.71 OtherCharges:23.29 For Details dial *977#
+Monday, August 7, 2023 · 9:29 AM 
+Mtr:37194275246 Token:5748-5066-8939-5129-9725 Date:20230807 07:28 Units:3.63 Amt:80.00 TknAmt:44.50 OtherCharges:35.5 For Details dial *977#
+Monday, August 14, 2023 · 12:42 PM 
+Mtr:37194275246 Token:7194-5862-6842-4352-3887 Date:20230814 10:41 Units:2.95 Amt:65.00 TknAmt:36.18 OtherCharges:28.82 For Details dial *977#
+Thursday, August 17, 2023 · 3:00 AM 
+Mtr:37194275246 Token:5833-8909-2007-5804-4725 Date:20230817 00:59 Units:2.32 Amt:51.00 TknAmt:28.38 OtherCharges:22.62 For Details dial *977#
+Saturday, August 19, 2023 · 9:37 PM 
+Mtr:37194275246 Token:2604-5939-0051-4229-1300 Date:20230819 19:36 Units:4.18 Amt:92.00 TknAmt:51.18 OtherCharges:40.82 For Details dial *977#
+Monday, August 28, 2023 · 2:16 AM 
+Mtr:37194275246 Token:5561-9954-0233-6856-7580 Date:20230828 00:16 Units:3.22 Amt:71.00 TknAmt:39.50 OtherCharges:31.5 For Details dial *977#
+Saturday, September 2, 2023 · 1:48 AM 
+Mtr:37194275246 Token:3262-9185-0442-3715-5908 Date:20230901 23:47 Units:3.86 Amt:85.00 TknAmt:47.30 OtherCharges:37.7 For Details dial *977#
+Saturday, September 9, 2023 · 5:16 PM 
+Mtr:37194275246 Token:0112-3671-5973-4927-2662 Date:20230909 15:16 Units:3.05 Amt:65.00 TknAmt:37.31 OtherCharges:27.69 For Details dial *977#
+Thursday, September 14, 2023 · 9:05 PM 
+Mtr:37194275246 Token:4099-0747-0023-0184-1106 Date:20230914 19:04 Units:4.69 Amt:100.00 TknAmt:57.40 OtherCharges:42.6 For Details dial *977#
+Thursday, September 21, 2023 · 12:22 PM 
+Mtr:37194275246 Token:3272-3106-5531-7389-3898 Date:20230921 10:21 Units:2.06 Amt:44.00 TknAmt:25.27 OtherCharges:18.73 For Details dial *977#
+Monday, September 25, 2023 · 10:37 PM 
+Mtr:37194275246 Token:0526-8215-6524-9503-9878 Date:20230925 20:36 Units:3.56 Amt:76.00 TknAmt:43.64 OtherCharges:32.36 For Details dial *977#
+Sunday, October 1, 2023 · 4:31 PM 
+Mtr:37194275246 Token:3679-1731-0612-9307-9872 Date:20231001 14:30 Units:3.75 Amt:80.00 TknAmt:45.92 OtherCharges:34.08 For Details dial *977#
+Monday, October 9, 2023 · 6:21 PM 
+Mtr:37194275246 Token:6493-9901-8503-7384-9636 Date:20231009 16:20 Units:2.31 Amt:53.00 TknAmt:28.34 OtherCharges:24.66 For Details dial *977#
+Friday, October 13, 2023 · 6:32 PM 
+Mtr:37194275246 Token:1903-3655-4285-6624-8286 Date:20231013 16:31 Units:1.31 Amt:30.00 TknAmt:16.06 OtherCharges:13.94 For Details dial *977#
+Friday, October 27, 2023 · 10:00 PM 
+Mtr:37194275246 Token:6146-3647-1516-7096-4248 Date:20231027 19:59 Units:3.49 Amt:80.00 TknAmt:42.77 OtherCharges:37.23 For Details dial *977#
+Sunday, November 5, 2023 · 5:44 PM 
+Mtr:37194275246 Token:1567-5226-5955-1046-8193 Date:20231105 15:43 Units:3.49 Amt:80.00 TknAmt:42.77 OtherCharges:37.23 For Details dial *977#
+Tuesday, November 14, 2023 · 11:37 PM 
+Mtr:37194275246 Token:0127-5544-7118-6514-4297 Date:20231114 21:36 Units:3.54 Amt:80.00 TknAmt:43.38 OtherCharges:36.62 For Details dial *977#
+Monday, November 27, 2023 · 3:08 AM 
+Mtr:37194275246 Token:5916-7820-7389-6708-2449 Date:20231127 01:07 Units:2.88 Amt:65.00 TknAmt:35.24 OtherCharges:29.76 For Details dial *977#
+Monday, December 4, 2023 · 10:51 PM 
+Mtr:37194275246 Token:4603-7962-1563-5743-4734 Date:20231204 20:35 Units:2.74 Amt:62.00 TknAmt:33.63 OtherCharges:28.37 For Details dial *977#
+Saturday, December 9, 2023 · 12:23 AM 
+Mtr:37194275246 Token:3835-7707-6860-4147-3723 Date:20231208 22:22 Units:3.76 Amt:85.00 TknAmt:46.08 OtherCharges:38.92 For Details dial *977#
+Friday, December 15, 2023 · 12:55 PM 
+Mtr:37194275246 Token:2540-1045-3605-0902-1327 Date:20231215 10:15 Units:2.4 Amt:55.00 TknAmt:29.40 OtherCharges:25.6 For Details dial *977#
+Saturday, December 23, 2023 · 1:23 AM 
+Mtr:37194275246 Token:0451-4377-6143-9209-1983 Date:20231222 23:21 Units:2.92 Amt:67.00 TknAmt:35.81 OtherCharges:31.19 For Details dial *977#
+Friday, December 29, 2023 · 10:52 PM 
+Mtr:37194275246 Token:5953-0483-2699-1347-5136 Date:20231229 20:51 Units:1.4 Amt:32.00 TknAmt:17.12 OtherCharges:14.88 For Details dial *977#
+Monday, January 1, 2024 · 11:29 AM 
+Mtr:37194275246 Token:1555-3933-5916-8350-1907 Date:20240101 09:28 Units:2.84 Amt:65.00 TknAmt:34.75 OtherCharges:30.25 For Details dial *977#
+Sunday, January 7, 2024 · 11:58 AM 
+Mtr:37194275246 Token:0685-3142-3848-0514-2758 Date:20240107 09:57 Units:3.36 Amt:77.00 TknAmt:41.15 OtherCharges:35.85 For Details dial *977#
+Monday, January 15, 2024 · 3:15 AM 
+Mtr:37194275246 Token:5259-7485-8209-8084-0495 Date:20240115 01:14 Units:2.25 Amt:60.00 TknAmt:27.51 OtherCharges:32.49 For Details dial *977#
+Sunday, January 21, 2024 · 5:27 PM 
+Mtr:37194275246 Token:2763-9322-4782-5586-3858 Date:20240121 15:26 Units:2.06 Amt:55.00 TknAmt:25.23 OtherCharges:29.77 For Details dial *977#
+Saturday, January 27, 2024 · 12:02 PM 
+Mtr:37194275246 Token:1638-2806-6380-0515-4773 Date:20240127 10:01 Units:1.87 Amt:50.00 TknAmt:22.94 OtherCharges:27.06 For Details dial *977#
+Mtr:37194275246 Token:6340-3568-9163-7910-7766 Date:20240127 10:10 Units:1.12 Amt:30.00 TknAmt:13.78 OtherCharges:16.22 For Details dial *977#
+Saturday, February 10, 2024 · 12:26 AM 
+Mtr:37194275246 Token:3546-3623-0896-1588-4310 Date:20240209 22:24 Units:2.63 Amt:61.00 TknAmt:32.21 OtherCharges:28.79 For Details dial *977#
+Saturday, February 10, 2024 · 1:48 AM 
+Mtr:37194275246 Token:3324-5175-2217-3185-0191 Date:20240209 23:47 Units:1.29 Amt:30.00 TknAmt:15.86 OtherCharges:14.14 For Details dial *977#
+Wednesday, February 14, 2024 · 7:27 PM 
+Mtr:37194275246 Token:3849-4186-7481-9124-4429 Date:20240214 17:26 Units:3.02 Amt:70.00 TknAmt:36.95 OtherCharges:33.05 For Details dial *977#
+Thursday, February 22, 2024 · 6:31 PM 
+Mtr:37194275246 Token:1613-8596-8704-1391-8290 Date:20240222 16:00 Units:3.45 Amt:80.00 TknAmt:42.23 OtherCharges:37.77 For Details dial *977#
+Wednesday, February 28, 2024 · 11:07 PM 
+Mtr:37194275246 Token:6650-9585-0120-7807-2073 Date:20240228 21:06 Units:3.75 Amt:87.00 TknAmt:45.94 OtherCharges:41.06 For Details dial *977#
+Monday, March 4, 2024 · 10:39 AM 
+Mtr:37194275246 Token:3336-4146-8273-0872-2136 Date:20240304 08:37 Units:2.11 Amt:49.00 TknAmt:25.88 OtherCharges:23.12 For Details dial *977#
+Sunday, March 10, 2024 · 9:00 PM 
+Mtr:37194275246 Token:0551-3077-6296-0766-5849 Date:20240310 18:59 Units:3.46 Amt:80.00 TknAmt:42.35 OtherCharges:37.65 For Details dial *977#
+Monday, March 18, 2024 · 10:43 PM 
+Mtr:37194275246 Token:7015-0825-2584-2315-6360 Date:20240318 20:42 Units:3.67 Amt:85.00 TknAmt:45.00 OtherCharges:40.0 For Details dial *977#
+Tuesday, March 26, 2024 · 12:40 PM 
+Mtr:37194275246 Token:0569-6746-4138-3274-2269 Date:20240326 10:39 Units:2.16 Amt:50.00 TknAmt:26.48 OtherCharges:23.52 For Details dial *977#
+Saturday, March 30, 2024 · 5:46 PM 
+Mtr:37194275246 Token:1075-2231-2429-0687-7472 Date:20240330 15:45 Units:3.46 Amt:80.00 TknAmt:42.35 OtherCharges:37.65 For Details dial *977#
+Monday, April 8, 2024 · 12:59 AM 
+Mtr:37194275246 Token:7300-4956-5465-2597-8679 Date:20240407 22:58 Units:3.58 Amt:75.00 TknAmt:43.81 OtherCharges:31.19 For Details dial *977#
+Friday, April 12, 2024 · 9:50 PM 
+Mtr:37194275246 Token:3342-4583-5787-5112-8044 Date:20240412 19:49 Units:3.81 Amt:80.00 TknAmt:46.73 OtherCharges:33.27 For Details dial *977#
+Sunday, April 21, 2024 · 1:07 AM 
+Mtr:37194275246 Token:1679-6781-9302-8616-6088 Date:20240420 23:06 Units:4.77 Amt:100.00 TknAmt:58.38 OtherCharges:41.62 For Details dial *977#
+Saturday, April 27, 2024 · 4:10 PM 
+Mtr:37194275246 Token:7140-7505-3329-0782-7138 Date:20240427 14:09 Units:4.77 Amt:100.00 TknAmt:58.38 OtherCharges:41.62 For Details dial *977#
+Sunday, May 5, 2024 · 11:10 PM 
+Mtr:37194275246 Token:6049-0760-3140-2719-0679 Date:20240505 21:09 Units:3.81 Amt:80.00 TknAmt:46.73 OtherCharges:33.27 For Details dial *977#
+Tuesday, June 11, 2024 · 8:05 PM 
+Mtr:37194275246 Token:5331-8309-4929-1993-5313 Date:20240611 20:03 Units:4.8 Amt:100.00 TknAmt:57.88 OtherCharges:42.12 For Details dial *977#
+Sunday, June 23, 2024 · 12:35 PM 
+Mtr:37194275246 Token:5156-5879-2533-6888-4241 Date:20240623 12:34 Units:3.8 Amt:80.00 TknAmt:46.30 OtherCharges:33.7 For Details dial *977#
+Monday, July 1, 2024 · 7:00 PM 
+Mtr:37194275246 Token:3477-7462-0452-6126-8486 Date:20240701 18:58:49 +0300 Units:2.4 Amt:50.00 TknAmt:28.94 OtherCharges:21.06 For Details dial *977#
+Tuesday, July 9, 2024 · 8:29 AM 
+Mtr:37194275246 Token:6357-3866-3620-0822-3111 Date:20240709 08:27:49 +0300 Units:5.0 Amt:100.00 TknAmt:61.11 OtherCharges:38.89 For Details dial *977#
+Tuesday, July 23, 2024 · 8:27 AM 
+Update Token Meter Yako: Meter Number:37194275246 Step1: Enter Reset code: 5137-3680-4394-6600-9367 Step2: Enter update code: 0509-2994-2628-3817-4418 Step3: Enter Electricity token: 4020-9194-4211-8049-9469 Units:5.0 Amt:100.00 TknAmt:61.11 For Details dial *977#
+Sunday, August 4, 2024 · 11:49 AM 
+Mtr:37194275246 Token:3789-3097-2317-5941-0438 Date:20240804 11:48 Units:2.5 Amt:50.00 TknAmt:30.57 OtherCharges:19.43 For Details dial *977#
+Monday, August 5, 2024 · 9:57 PM 
+Mtr:14106481758 Token:5570-9640-9007-0585-2347 Date:20240805 21:56 Units:5.0 Amt:100.00 TknAmt:61.11 OtherCharges:38.89 For Details dial *977#
+Wednesday, August 14, 2024 · 4:38 AM 
+Mtr:37194275246 Token:3919-5947-2914-9031-0684 Date:20240814 04:37 Units:4.9 Amt:100.00 TknAmt:59.75 OtherCharges:40.25 For Details dial *977#
+Saturday, August 24, 2024 · 9:48 AM 
+Mtr:37194275246 Token:4340-6193-4043-3871-8027 Date:20240824 09:47 Units:4.9 Amt:100.00 TknAmt:59.75 OtherCharges:40.25 For Details dial *977#
+Tuesday, September 3, 2024 · 7:40 PM 
+Mtr:37194275246 Token:6780-5867-7318-8927-0005 Date:20240903 19:38 Units:4.9 Amt:100.00 TknAmt:59.75 OtherCharges:40.25 For Details dial *977#
+Friday, September 13, 2024 · 2:15 PM 
+Mtr:37194275246 Token:3664-7732-9481-4045-9130 Date:20240913 14:13 Units:5.0 Amt:100.00 TknAmt:60.32 OtherCharges:39.68 For Details dial *977#
+Monday, September 23, 2024 · 11:48 PM 
+Mtr:37194275246 Token:7079-3692-5262-0708-0160 Date:20240923 23:46 Units:3.0 Amt:60.00 TknAmt:36.21 OtherCharges:23.79 For Details dial *977#
+Sunday, September 29, 2024 · 11:45 PM 
+Mtr:37194275246 Token:4237-5141-4474-6252-7399 Date:20240929 23:43 Units:5.0 Amt:100.00 TknAmt:60.32 OtherCharges:39.68 For Details dial *977#
+Monday, October 7, 2024 · 10:27 PM 
+Mtr:37194275246 Token:6742-4130-1415-2789-6064 Date:20241007 22:25 Units:5.0 Amt:100.00 TknAmt:60.13 OtherCharges:39.87 For Details dial *977#
+Wednesday, October 16, 2024 · 5:46 PM 
+Mtr:37194275246 Token:5935-9829-6415-9770-8166 Date:20241016 17:45 Units:5.0 Amt:100.00 TknAmt:60.13 OtherCharges:39.87 For Details dial *977#
+Thursday, October 24, 2024 · 7:35 PM 
+Mtr:37194275246 Token:4905-0857-3701-7531-9950 Date:20241024 19:33 Units:5.0 Amt:100.00 TknAmt:60.13 OtherCharges:39.87 For Details dial *977#
+Thursday, October 31, 2024 · 12:21 PM 
+Mtr:37194275246 Token:6767-8074-3729-8889-7786 Date:20241031 12:04 Units:5.0 Amt:100.00 TknAmt:60.13 OtherCharges:39.87 For Details dial *977#
+Thursday, November 7, 2024 · 7:56 PM 
+Mtr:37194275246 Token:4966-0433-3918-4065-7105 Date:20241107 19:55 Units:9.9 Amt:200.00 TknAmt:120.22 OtherCharges:79.78 For Details dial *977#
+Monday, November 18, 2024 · 10:18 AM 
+Mtr:37194275246 Token:6457-5037-4346-9927-3573 Date:20241118 10:16 Units:9.9 Amt:200.00 TknAmt:120.66 OtherCharges:79.34 For Details dial *977#
+Thursday, November 28, 2024 · 5:10 PM 
+Mtr:37194275246 Token:1332-1813-9350-1419-8348 Date:20241128 17:08 Units:5.0 Amt:100.00 TknAmt:60.35 OtherCharges:39.65 For Details dial *977#
+Sunday, December 1, 2024 · 8:25 PM 
+Mtr:37194275246 Token:6875-4939-5841-2680-6284 Date:20241201 20:23 Units:5.0 Amt:100.00 TknAmt:60.35 OtherCharges:39.65 For Details dial *977#
+Tuesday, December 3, 2024 · 12:39 PM 
+Mtr:14106481758 Token:4005-3514-1194-1587-3237 Date:20241203 12:37 Units:2.5 Amt:50.00 TknAmt:30.19 OtherCharges:19.81 For Details dial *977#
+Saturday, December 7, 2024 · 9:56 PM 
+Mtr:37194275246 Token:6143-5360-1491-4257-4164 Date:20241207 21:54 Units:9.8 Amt:200.00 TknAmt:119.77 OtherCharges:80.23 For Details dial *977#
+Tuesday, December 17, 2024 · 7:25 AM 
+Mtr:37194275246 Token:5003-5687-2818-8870-7006 Date:20241217 07:23 Units:2.5 Amt:50.00 TknAmt:29.97 OtherCharges:20.03 For Details dial *977#
+Wednesday, Jan 15 · 11:16 AM 
+Mtr:37194275246 Token:5970-8564-8069-2868-6383 Date:20250115 11:14 Units:2.5 Amt:50.00 TknAmt:30.25 OtherCharges:19.75 For Details dial *977#
+Friday, Jan 17 · 11:20 PM 
+Mtr:37194275246 Token:0803-1656-9134-6979-1166 Date:20250117 23:18 Units:5.0 Amt:100.00 TknAmt:60.45 OtherCharges:39.55 For Details dial *977#
+Tuesday, Jan 28 · 6:42 PM 
+Mtr:37194275246 Token:3379-8779-2598-0138-1039 Date:20250128 18:24 Units:5.0 Amt:100.00 TknAmt:60.45 OtherCharges:39.55 For Details dial *977#
+Monday, Feb 3 · 11:31 AM 
+Mtr:37194275246 Token:6611-8963-4778-5079-2430 Date:20250203 11:29 Units:5.0 Amt:100.00 TknAmt:60.45 OtherCharges:39.55 For Details dial *977#
+Monday, Feb 10 · 5:41 AM 
+Mtr:37194275246 Token:4788-0517-3926-0755-2045 Date:20250210 05:38 Units:5.1 Amt:100.00 TknAmt:61.53 OtherCharges:38.47 For Details dial *977#
+Saturday, Feb 15 · 6:57 PM 
+Mtr:37194275246 Token:5837-9579-8040-0755-8403 Date:20250215 18:55 Units:5.1 Amt:100.00 TknAmt:61.53 OtherCharges:38.47 For Details dial *977#
+Sunday, Feb 23 · 8:42 AM 
+Mtr:37194275246 Token:6765-2435-8524-5610-2761 Date:20250223 08:39 Units:5.1 Amt:100.00 TknAmt:61.53 OtherCharges:38.47 For Details dial *977#
+Friday, Feb 28 · 1:52 PM 
+Mtr:37194275246 Token:2052-1414-3589-2846-1542 Date:20250228 13:49 Units:5.1 Amt:100.00 TknAmt:61.53 OtherCharges:38.47 For Details dial *977#
+Sunday, Mar 9 · 7:32 AM 
+Mtr:37194275246 Token:2707-9159-3643-1095-5127 Date:20250309 07:30 Units:5.0 Amt:100.00 TknAmt:60.74 OtherCharges:39.26 For Details dial *977#
+Saturday, Mar 15 · 5:36 PM 
+Mtr:37194275246 Token:0290-9364-3877-3721-8101 Date:20250315 17:34 Units:5.0 Amt:100.00 TknAmt:60.74 OtherCharges:39.26 For Details dial *977#
+Sunday, Mar 23 · 1:40 PM 
+Mtr:37194275246 Token:6062-3808-2115-9109-7646 Date:20250323 13:38 Units:5.0 Amt:100.00 TknAmt:60.74 OtherCharges:39.26 For Details dial *977#
+Monday · 12:50 AM 
+Mtr:37194275246 Token:1262-4625-3946-7109-0131 Date:20250331 00:48 Units:5.0 Amt:100.00 TknAmt:60.74 OtherCharges:39.26 For Details dial *977#
