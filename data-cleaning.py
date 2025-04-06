@@ -4,7 +4,7 @@ from datetime import datetime
 #import ace_tools as tools
 
 # Step 1: Load the raw text from the uploaded file
-with open("Meter-tokens.txt", "r", encoding="utf-8") as file:
+with open("Raw-SMS-Meter-tokens.txt", "r", encoding="utf-8") as file:
     raw_text = file.read()
 
 # Step 2: Extract only the lines that contain token information (those with "Mtr:")
