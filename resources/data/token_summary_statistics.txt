@@ -1,0 +1,9 @@
+===== Token Data Summary Statistics =====
+Total Transactions: 93
+Total Amount Spent: KSh 7422.00
+Total Units Purchased: 349.00
+Average Purchase Amount: KSh 79.81
+Average Units per Transaction: 3.75
+Average Cost per Unit: KSh 21.27
+First Transaction Date: 2023-05-06
+Last Transaction Date: 2025-03-31

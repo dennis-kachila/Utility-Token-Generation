@@ -1,4 +1,5 @@
 import base64
+import os
 from Crypto.Cipher import DES
 from Crypto.Random import get_random_bytes
 
@@ -8,7 +9,9 @@ def generate_vending_key():
     in Base64 encoding.
     """
     key = get_random_bytes(8)  # DES key is 8 bytes
-    with open("VendingKey.key", "w") as f:
+    vending_key_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), "resources", "data", "VendingKey.key")
+    os.makedirs(os.path.dirname(vending_key_path), exist_ok=True)
+    with open(vending_key_path, "w") as f:
         f.write(base64.b64encode(key).decode("utf-8"))
     return key
 
@@ -16,7 +19,8 @@ def read_vending_key():
     """
     Reads the vending key from the file 'VendingKey.key' and returns it as bytes.
     """
-    with open("VendingKey.key", "r") as f:
+    vending_key_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), "resources", "data", "VendingKey.key")
+    with open(vending_key_path, "r") as f:
         key_b64 = f.read().strip()
     return base64.b64decode(key_b64)
 
@@ -67,13 +71,14 @@ class DecoderKeyGenerator:
         if len(self.decoder_reference_number) == 11:
             self.pan_block = self.IIN_2[1:] + self.decoder_reference_number
         else:
-            self.pan_block = self.IIN_1 + self.decoder_reference_number
-
-    def get_vending_key(self):
+            self.pan_block = self.IIN_1 + self.decoder_reference_number    def get_vending_key(self):
         """
         Reads and returns the vending key from the file.
         """
-        return read_vending_key()
+        try:
+            return read_vending_key()
+        except FileNotFoundError:
+            return generate_vending_key()
 
     def generate_decoder_key(self):
         """
@@ -114,16 +119,33 @@ class DecoderKeyGenerator:
 # ---------------------------
 # Example Usage
 # ---------------------------
-if __name__ == "__main__":
+def main():
+    """Main function to run when the script is executed."""
     # Generate a vending key if not already present
     try:
         _ = read_vending_key()
-    except Exception:
+        print("Using existing vending key.")
+    except (FileNotFoundError, Exception):
+        print("Generating new vending key...")
         generate_vending_key()
+        print("Vending key generated and saved.")
     
-    # Example values (these are dummy values for illustration):
-    # key_type = "2", supply_group_code = "123456", tariff_index = "7", key_revision_number = "1"
-    # decoder_reference_number = "37194275246" (11 digits)
-    dkg = DecoderKeyGenerator("2", "123456", "7", "1", "37194275246")
+    # Get user input or use example values
+    print("\nEnter decoder key parameters (or press Enter to use example values):")
+    key_type = input("Key Type (default: 2): ") or "2"
+    supply_group_code = input("Supply Group Code (default: 123456): ") or "123456"
+    tariff_index = input("Tariff Index (default: 7): ") or "7"
+    key_revision_number = input("Key Revision Number (default: 1): ") or "1"
+    decoder_reference_number = input("Decoder Reference Number (default: 37194275246): ") or "37194275246"
+    
+    # Generate the decoder key
+    dkg = DecoderKeyGenerator(key_type, supply_group_code, tariff_index, key_revision_number, decoder_reference_number)
     dkg.generate_decoder_key()
+    
+    print("\nDecoder Key Generated:")
+    print("----------------------")
     print("Decoder Key (Hex):", dkg.get_decoder_key_hex())
+    print("\nThis key is used for token encryption and decryption.")
+
+if __name__ == "__main__":
+    main()
